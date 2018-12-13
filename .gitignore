@@ -240,3 +240,8 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/tommvc3/.vscode/launch.json
+/tommvc3/Scripts/ai.0.22.9-build00167.js
+/tommvc3/Scripts/ai.0.22.9-build00167.min.js
+/tommvc3/package-lock.json
+/tommvc3/ApplicationInsights.config
